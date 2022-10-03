@@ -8,6 +8,6 @@ Console.Write("Enter number: ");
 int number = int.Parse(Console.ReadLine());
 
 if (number % 2 == 0)
-    Console.Write("Число число является чётным");
+    Console.Write("Число является чётным");
 else
-    Console.Write("Число число не является чётным");
+    Console.Write("Число не является чётным");
