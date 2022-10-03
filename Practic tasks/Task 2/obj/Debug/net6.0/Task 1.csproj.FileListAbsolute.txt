@@ -28,3 +28,18 @@ C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar\Pr
 C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar\Practic tasks\Task 2\bin\Debug\net6.0\Task 1.pdb
 C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar\Practic tasks\Task 2\obj\Debug\net6.0\Task 1.genruntimeconfig.cache
 C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar\Practic tasks\Task 2\obj\Debug\net6.0\ref\Task 1.dll
+C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar_practic work\Practic tasks\Task 2\bin\Debug\net6.0\Task 1.exe
+C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar_practic work\Practic tasks\Task 2\bin\Debug\net6.0\Task 1.deps.json
+C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar_practic work\Practic tasks\Task 2\bin\Debug\net6.0\Task 1.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar_practic work\Practic tasks\Task 2\bin\Debug\net6.0\Task 1.dll
+C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar_practic work\Practic tasks\Task 2\bin\Debug\net6.0\Task 1.pdb
+C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar_practic work\Practic tasks\Task 2\obj\Debug\net6.0\Task 1.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar_practic work\Practic tasks\Task 2\obj\Debug\net6.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar_practic work\Practic tasks\Task 2\obj\Debug\net6.0\Task 1.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar_practic work\Practic tasks\Task 2\obj\Debug\net6.0\Task 1.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar_practic work\Practic tasks\Task 2\obj\Debug\net6.0\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar_practic work\Practic tasks\Task 2\obj\Debug\net6.0\Task 1.dll
+C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar_practic work\Practic tasks\Task 2\obj\Debug\net6.0\refint\Task 1.dll
+C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar_practic work\Practic tasks\Task 2\obj\Debug\net6.0\Task 1.pdb
+C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar_practic work\Practic tasks\Task 2\obj\Debug\net6.0\Task 1.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Документы\Developer\C#\Seminars\FirstSeminar_practic work\Practic tasks\Task 2\obj\Debug\net6.0\ref\Task 1.dll

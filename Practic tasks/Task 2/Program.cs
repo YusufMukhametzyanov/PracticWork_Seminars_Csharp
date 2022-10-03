@@ -12,3 +12,5 @@ if (a > b)
     Console.Write($"Число {a} является большим, а число {b} меньшим");
 else if (a < b)
     Console.Write($"Число {b} является большим, а число {a} меньшим");
+else if (a == b)
+    Console.WriteLine($"{a} = {b}");
