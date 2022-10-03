@@ -6,4 +6,4 @@ string numberStr = Console.ReadLine();
 int number = int.Parse(numberStr);
 int result = number * number;
 
-Console.Write($"{number} >>> {result}");
+Console.Write($"квадратом числа {number} является {result}");
